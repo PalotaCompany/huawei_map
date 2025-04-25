@@ -11,7 +11,7 @@
 
 ----
 
-This is fork to remove v1 embeddings, and make it work with Flutter v3.29.0
+This is a fork to remove v1 embeddings, and make it work with Flutter v3.29.0
 
 ---
 
