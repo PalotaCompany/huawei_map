@@ -9,11 +9,11 @@
 </p>
 
 
-----;
+----
 
 This is fork to remove v1 embeddings, and make it work with Flutter v3.29.0
 
----;
+---
 
 Huawei Map Kit, provides standard maps as well as UI elements such as markers, shapes, and layers for you to customize maps that better meet service scenarios. Enables users to interact with a map in your app through gestures and buttons in different scenarios.
 
